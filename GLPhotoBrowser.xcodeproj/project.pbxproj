@@ -72,13 +72,13 @@
 		981B01191D45BF9C004293D5 /* GLPhotoBrowserDemo */ = {
 			isa = PBXGroup;
 			children = (
-				981B01341D45C00E004293D5 /* Supporting Files  */,
 				981B011A1D45BF9C004293D5 /* AppDelegate.h */,
 				981B011B1D45BF9C004293D5 /* AppDelegate.m */,
-				981B011C1D45BF9C004293D5 /* Assets.xcassets */,
-				981B011F1D45BF9C004293D5 /* Main.storyboard */,
 				981B01231D45BF9C004293D5 /* ViewController.h */,
 				981B01241D45BF9C004293D5 /* ViewController.m */,
+				981B011F1D45BF9C004293D5 /* Main.storyboard */,
+				981B011C1D45BF9C004293D5 /* Assets.xcassets */,
+				981B01341D45C00E004293D5 /* Supporting Files  */,
 			);
 			path = GLPhotoBrowserDemo;
 			sourceTree = "<group>";
